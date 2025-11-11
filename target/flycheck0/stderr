@@ -1,0 +1,32 @@
+   0.052366500s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint: stale: changed "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/src/lib.rs"
+   0.052383917s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint:           (vs) "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/target/debug/.fingerprint/zebra_epl2_printer-01491706d7dec011/dep-lib-zebra_epl2_printer"
+   0.052387292s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1762866370, nanos: 785180647 } < FileTime { seconds: 1762867308, nanos: 788244466 }
+   0.052758208s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint: fingerprint dirty for zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("zebra_epl2_printer", ["lib"], "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/src/lib.rs", Edition2021) }
+   0.052805875s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/target/debug/.fingerprint/zebra_epl2_printer-01491706d7dec011/dep-lib-zebra_epl2_printer", reference_mtime: FileTime { seconds: 1762866370, nanos: 785180647 }, stale: "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/src/lib.rs", stale_mtime: FileTime { seconds: 1762867308, nanos: 788244466 } }))
+   0.064360833s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint: fingerprint error for zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("zebra_epl2_printer", ["lib"], "/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/src/lib.rs", Edition2021) }
+   0.064375708s  INFO prepare_target{force=false package_id=zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer) target="zebra_epl2_printer"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer/target/debug/.fingerprint/zebra_epl2_printer-9bae014515eb8eaf/test-lib-zebra_epl2_printer`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   8: cargo::ops::cargo_compile::compile_ws
+   9: cargo::ops::cargo_compile::compile_with_exec
+  10: cargo::ops::cargo_compile::compile
+  11: cargo::commands::check::exec
+  12: <cargo::cli::Exec>::exec
+  13: cargo::main
+  14: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  15: std::rt::lang_start::<()>::{closure#0}
+  16: std::rt::lang_start_internal
+  17: _main
+    Checking zebra_epl2_printer v0.1.0 (/Users/ahmedelshentenawy/accelerated.work/abo-omar/zebra-epl2-printer)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.36s

@@ -1,0 +1,14 @@
+[package]
+name = "zebra_epl2_printer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25"
+rusttype = "0.9"
+ar-reshaper = "0.3"
+unicode-bidi = "0.3"
+
+# Win32 printing (used on Windows builds)
+winapi = { version = "0.3", features = ["winspool", "minwindef", "ntdef"] }
+

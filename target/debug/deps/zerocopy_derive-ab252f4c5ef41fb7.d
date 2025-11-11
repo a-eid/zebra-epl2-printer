@@ -1,0 +1,8 @@
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/zerocopy_derive-ab252f4c5ef41fb7.d: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/enum.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/ext.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/repr.rs
+
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/libzerocopy_derive-ab252f4c5ef41fb7.dylib: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/enum.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/ext.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/repr.rs
+
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/lib.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/enum.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/ext.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerocopy-derive-0.8.27/src/repr.rs:

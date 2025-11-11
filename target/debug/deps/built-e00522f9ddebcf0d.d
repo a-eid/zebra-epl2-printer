@@ -1,0 +1,10 @@
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/built-e00522f9ddebcf0d.d: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/environment.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/util.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/../README.md
+
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/libbuilt-e00522f9ddebcf0d.rlib: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/environment.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/util.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/../README.md
+
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/libbuilt-e00522f9ddebcf0d.rmeta: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/environment.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/util.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/../README.md
+
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/lib.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/environment.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/util.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/built-0.7.7/src/../README.md:

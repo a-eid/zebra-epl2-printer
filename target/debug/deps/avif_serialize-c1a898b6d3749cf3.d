@@ -1,0 +1,8 @@
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/avif_serialize-c1a898b6d3749cf3.d: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs
+
+/Users/ahmedelshentenawy/accelerated.work/label-printer/zebra-epl2-printer/target/debug/deps/libavif_serialize-c1a898b6d3749cf3.rmeta: /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs /Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs
+
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/lib.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/boxes.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/constants.rs:
+/Users/ahmedelshentenawy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.6/src/writer.rs:
